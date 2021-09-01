@@ -43,21 +43,21 @@ header {
 }
 
 .picture1 {
-  background-image: url(../../../Downloads/chapter9_exercise/img/flow01.png);
+  background-image: url(img/flow01.png);
   height: 150px;
   background-size: cover;
   background-position: bottom;
 }
 
 .picture2 {
-  background-image: url(../../../Downloads/chapter9_exercise/img/flow02.png);
+  background-image: url(img/flow02.png);
   height: 150px;
   background-size: cover;
   background-position: bottom;
 }
 
 .picture3 {
-  background-image: url(../../../Downloads/chapter9_exercise/img/flow03.png);
+  background-image: url(img/flow03.png);
   height: 150px;
   background-size: cover;
   background-position: bottom;
